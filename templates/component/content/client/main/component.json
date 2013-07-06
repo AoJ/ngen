@@ -1,0 +1,13 @@
+{
+  "name": "main",
+  "description": "Main app boot component",
+  "dependencies": {
+    "visionmedia/page.js": "*",
+    "component/collection": "*",
+    "component/keyname": "*"
+  },
+  "scripts": ["index.js"],
+  "styles": ["style.css"],
+  "local": [
+  ]
+}
