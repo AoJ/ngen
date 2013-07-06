@@ -1,11 +1,10 @@
-
 # NGen
 
  NGen is a nodejs package generator, complete with best practices, package structure, package.json and more.
 
 ## Installation
 
-    $ npm install ngen
+    $ npm install https://github.com/AoJ/ngen/tarball/live -g
 
 ## Usage
 
@@ -19,6 +18,11 @@
       -V, --version           Output the current version
       -h, --help              Display help information
 
+
+## Example
+Create folder gitlist and structure for component...
+    
+    ngen -t component gitlist
 
 ## Templates
 
