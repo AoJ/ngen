@@ -1,0 +1,10 @@
+*.log
+*.pid
+
+pids
+logs
+results.DS_Store
+node_modules
+*.sock
+
+npm-debug.log
