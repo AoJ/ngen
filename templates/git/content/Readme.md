@@ -1,5 +1,4 @@
-
-# {{project}}
+# {{project}} [![Dependency Status](https://david-dm.org/{{name}}/{{project}}.png)](https://david-dm.org/{{name}}/{{project}})
 
   {{description}}
 
