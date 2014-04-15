@@ -8,7 +8,9 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
-    "should": "*"
+    "should": "*",
+    "sinon": "*",
+    "expectations": "*"
   },
-  "main": "index"
+  "main": "app"
 }
